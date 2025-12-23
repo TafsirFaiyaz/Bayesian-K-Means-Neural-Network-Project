@@ -1,3 +1,6 @@
+Bayesian-K-Means-Neural-Project is a hybrid machine learning project that combines Bayesian inference, K-Means clustering, and neural networks to improve data representation and decision-making. It uses probabilistic modeling to handle uncertainty, unsupervised clustering to discover structure in data, and neural networks to learn complex patterns, resulting in a more robust and adaptive learning framework.
+
+
 Before running the code make sure pytorch, seaborn and scikit-learn are installed.
 
 For that run the below command:
